@@ -1,3 +1,11 @@
+:root {
+  --azul_escuro: #303473;
+  --azul: #4f528c;
+  --azul_claro: #7e81bf;
+  --azul_bebe: #b3b6f2;
+  --cinza: #f2f2f2;
+}
+
 body {
   display: flex;
   width: 100%;
