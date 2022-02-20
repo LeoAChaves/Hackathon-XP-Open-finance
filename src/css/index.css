@@ -1,0 +1,180 @@
+@import url("https://fonts.googleapis.com/css2?family=Overpass:wght@100;200;300&display=swap");
+
+* {
+  font-family: "Overpass", sans-serif;
+}
+
+.navIcons {
+  flex-direction: column;
+  align-items: center;
+  padding: 25px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.icon {
+  width: 35px;
+  height: 35px;
+}
+
+ul > li {
+  list-style: none;
+  padding: 10px;
+  align-items: center;
+}
+
+.texto {
+  display: none;
+}
+
+main {
+  width: 90vw;
+}
+
+.user {
+  display: flex;
+  justify-content: flex-end;
+  width: 100%;
+  height: 15%;
+}
+
+.usuario {
+  width: 12em;
+  height: 2.5em;
+  background-color: var(--cinza);
+  display: flex;
+  align-items: center;
+  margin-top: 1rem;
+  margin-right: 1rem;
+  border-radius: 25px;
+  font-size: 20px;
+  font-weight: bolder;
+}
+
+.iconUser {
+  border-radius: 50%;
+  padding-left: 10px;
+  margin-right: 10px;
+  width: 50px;
+}
+
+.info {
+  display: flex;
+  justify-content: space-between;
+}
+
+.ultimasTransacoes {
+  width: 35em;
+  margin-left: 2em;
+}
+
+.transacoes {
+  background-color: var(--cinza);
+  width: 35em;
+  height: 5em;
+  border-radius: 10px;
+  margin: 10px;
+  padding: 10px;
+}
+
+.titulo {
+  display: flex;
+  justify-content: space-between;
+  padding-bottom: 10px;
+}
+
+.imgTransacoes {
+  width: 25px;
+  height: 25px;
+  margin-right: 5px;
+}
+
+.tituloTransacoes {
+  font-weight: bold;
+  font-size: 18px;
+  display: flex;
+}
+
+.descr {
+  display: flex;
+  justify-content: space-between;
+}
+
+.descricao {
+  font-size: 15px;
+}
+
+.valor {
+  font-weight: bold;
+}
+
+.cartoesVirtuais {
+  width: 45%;
+}
+
+.vales {
+  height: 40%;
+  margin-top: 0.8em;
+  margin-right: 50px;
+  display: flex;
+  justify-content: space-around;
+}
+
+.vale1,
+.vale2,
+.vale3 {
+  width: 90em;
+  height: 15em;
+  margin-left: 3em;
+  border-radius: 15px;
+  padding: 15px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.vale1 {
+  background: rgb(130, 242, 126);
+  background: linear-gradient(
+    135deg,
+    rgba(130, 242, 126, 1) 0%,
+    rgba(0, 78, 90, 1) 100%
+  );
+}
+
+.vale2 {
+  background: rgb(255, 252, 80);
+  background: linear-gradient(
+    135deg,
+    rgba(255, 252, 80, 1) 0%,
+    rgba(242, 46, 46, 1) 100%
+  );
+}
+
+.vale3 {
+  background: rgb(174, 205, 254);
+  background: linear-gradient(
+    135deg,
+    rgba(174, 205, 254, 1) 0%,
+    rgba(217, 41, 73, 1) 100%
+  );
+}
+
+.tituloVale {
+  font-weight: bold;
+  font-size: 20px;
+  text-align: center;
+}
+
+.saldo {
+  font-size: 22px;
+  font-weight: bolder;
+  text-align: end;
+}
+
+.gastoSaldo {
+  font-size: 12px;
+  font-weight: bolder;
+  display: flex;
+  justify-content: space-between;
+}
