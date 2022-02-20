@@ -85,12 +85,12 @@ main {
   justify-content: space-evenly;
 }
 .tipo_invest p {
-  font-weight: bold;
   display: flex;
   align-items: center;
   justify-content: center;
   background: #ff8e3f;
   height: 100px;
-  width: 100px;
+  width: 150px;
   border-radius: 50px;
+  text-align: center;
 }
