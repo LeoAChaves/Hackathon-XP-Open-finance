@@ -1,0 +1,96 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+header {
+  width: 100px;
+  height: 100%;
+  background-color: #4f528c;
+  position: fixed;
+  left: 0;
+}
+main {
+  font-family: "Overpass", sans-serif;
+  margin-left: 120px;
+  display: grid;
+  height: 110vh;
+  grid-template-columns: 20% 20% 20% 20% 20%;
+  grid-template-rows: 40px 80px calc(100% - 100px);
+}
+.esquerda {
+  grid-column: 1/3;
+  grid-row: 2/4;
+}
+.metodo {
+  display: flex;
+  flex-direction: column;
+}
+.imagem {
+  align-self: center;
+  margin-bottom: 10px;
+}
+.quadro_atual {
+  width: 100%;
+  height: 365px;
+  margin-top: 20px;
+  border-radius: 20px;
+  padding: 18px;
+  background: rgb(179, 182, 242);
+  display: flex;
+  flex-direction: column;
+}
+.bola {
+  background-color: #f2f2f2;
+  width: 250px;
+  height: 250px;
+  border-radius: 250px;
+  margin-top: 35px;
+  align-self: center;
+}
+.oportunidade {
+  grid-column: 3/6;
+  grid-row: 2/3;
+  padding-left: 35px;
+}
+.oportunidade h2 {
+  width: 30%;
+}
+.investimentos {
+  grid-column: 3/6;
+  grid-row: 3/3;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.legenda {
+  width: 85%;
+  margin: 7px 0;
+  font-size: 20px;
+}
+.tipo_invest {
+  background: #f2f2f2;
+  background: rgb(179, 182, 242);
+  background: linear-gradient(
+    135deg,
+    rgba(179, 182, 242, 1) 0%,
+    rgba(79, 82, 140, 1) 100%
+  );
+  width: 90%;
+  height: 150px;
+  border-radius: 20px;
+  list-style: none;
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+}
+.tipo_invest p {
+  font-weight: bold;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: #ff8e3f;
+  height: 100px;
+  width: 100px;
+  border-radius: 50px;
+}
