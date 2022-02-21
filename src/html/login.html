@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <script src="https://kit.fontawesome.com/f0f938bf9a.js" crossorigin="anonymous"></script>
+        <link rel="stylesheet" href="../css/reset.css">
+        <link rel="stylesheet" href="../css/login.css">
+        <title>Login-Helper</title>
+    </head>
+    <body>
+        <header>
+            <h1><img class="logo" src="../img/logo.png" alt="logotipo"></h1>
+        </header>
+        <main>
+            <form>
+                <section class="inputs-container">
+                    <input type="email" placeholder="example@gmail.com">
+
+                    <div class="password-container">
+                        <input type="password" id="field-password" class="field-password" placeholder="********">
+                        <i class="fas fa-eye" id="eye" onclick="showPassword()"></i>
+                        <i class="fas fa-eye-slash" id="eye-slash" onclick="showPassword()"></i>
+                    </div>
+                </section>
+                <section class="password-infos">
+                    <div>
+                        <input id="lembrar" type="checkbox">
+                        <label for="lembrar"><span class="lembrar_senha">Lembrar senha</span></label>
+                    </div>
+                    <a href="#">Esqueceu sua senha?</a>
+                </section>
+                <button id="btn-login">Login</button>
+                <footer>
+                    <hr>
+                    <span>Ainda não tem uma conta? <a href="#">Cadastre-se</a></span>
+                </footer>
+            </form>
+        </main>
+        <script src="../js/main_sarah.js"></script>
+    </body>
+</html>

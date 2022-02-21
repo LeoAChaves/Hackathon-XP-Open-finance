@@ -1,0 +1,180 @@
+@import url('https://fonts.googleapis.com/css2?family=Overpass:ital,wght@0,100;0,300;1,100&display=swap');
+
+:root {
+    --azul_escuro: #303473;
+    --azul: #4f528c;
+    --azul_claro: #7e81bf;
+    --azul_bebe: #b3b6f2;
+    --cinza: #f2f2f2;
+
+    --overpass: 'Overpass', sans-serif;
+}
+
+body{
+    font-family: var(--overpass);
+    overflow-y: hidden;
+}
+
+header{
+    min-height: 9vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: var(--azul);
+}
+
+header h1{
+    font-size: 2.5rem;
+    color: white;
+}
+
+.logo{
+    width: 350px;
+}
+
+main{
+    width: 100%;
+    height: 91vh;
+    background: white;
+
+    display: flex;
+    justify-content: center;
+    box-shadow: inset 0px 2px 3px rgba(0, 0, 0, 0.25);
+}
+
+main form{
+    margin-top: 6%;
+    width: 35%;
+    height: 60vh;
+    background-color: var(--azul_claro);
+    box-shadow: 0px 3px 4px rgba(0, 0, 0, 0.4) inset 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 18px;
+    padding: 2%;
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.inputs-container{
+    margin-top: 10%;
+    width: 100%;
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.inputs-container input{
+   width: 90%;
+   height: 45px;
+   padding: 8px 15px;
+   border: 0;
+   outline: 0;
+   border-radius: 12px;
+   margin: 10px;
+
+   font-size: 18px;
+   color: black;
+
+   box-shadow: 0px 3px 3px rgba(0, 0, 0, 0.25);
+}
+
+.inputs-container input:focus{
+    box-shadow: inset 1px 4px 7px rgba(0, 0, 0, 0.5);
+}
+
+.password-container{
+    margin-top: 5%;
+    width: 100%;
+    position: relative;
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.password-container i{
+    position: absolute;
+    right: 8%;
+    top: 35%;
+    color: var(--azul);
+    cursor: pointer;
+}
+
+#eye{
+    display: none;
+}
+
+.password-infos{
+    width: 90%;
+    margin-top: 3%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.lembrar_senha{
+    cursor: pointer;
+}
+
+.password-infos a{
+    transition: 0.2s ease-in-out;
+    text-decoration: none;
+    color: black;
+}
+
+.password-infos a:hover{
+    color: var(--cinza);
+}
+
+main > form > button{
+    background-color: var(--azul_bebe);
+    width: 90%;
+    height: 50px;
+    border: 0;
+    outline: 0;
+    border-radius: 12px;
+    margin-top: 10%;
+    font-size: 1.6rem;
+    font-weight: 600;
+    cursor: pointer;
+    transition: 0.3s ease-in-out;
+}
+
+main > form > button:hover{
+    background: var(--cinza);
+    color: var(--azul_escuro);
+}
+
+footer{
+    width: 100%;
+    margin-top: 10%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+footer hr{
+    width: 100%;
+    height: 3px;
+    background-color: #F2CBBD;
+}
+
+footer span{
+    font-weight: 400;
+    font-size: 0.9rem;
+    margin-top: 5%;
+    font-family: ;
+}
+
+footer a{
+    font-weight: 600;
+    transition: 0.2s ease-in-out;
+    text-decoration: none;
+    color: black;
+}
+
+footer a:hover{
+    color: var(--cinza);
+}
