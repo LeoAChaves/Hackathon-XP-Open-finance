@@ -1,0 +1,157 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="../css/reset.css" />
+    <link rel="stylesheet" href="../css/global.css" />
+    <link rel="stylesheet" href="../css/gerenciamento.css" />
+    <title>Home</title>
+  </head>
+  <body>
+    <header>
+      <nav class="navIcons">
+        <ul class="">
+          <li>
+            <img src="../assets/img/home.svg" alt="" class="icon" /><a
+              href="#"
+              class="texto"
+              >Home</a
+            >
+          </li>
+          <li>
+            <img src="../assets/img/carteira.svg" alt="" class="icon" /><a
+              href="#"
+              class="texto"
+              >Carteira</a
+            >
+          </li>
+          <li>
+            <img src="../assets/img/cartoes.svg" alt="" class="icon" /><a
+              href="#"
+              class="texto"
+              >Cartão</a
+            >
+          </li>
+          <li>
+            <img src="../assets/img/transacoes.svg" alt="" class="icon" /><a
+              href="#"
+              class="texto"
+              >Transacoes</a
+            >
+          </li>
+          <li>
+            <img src="../assets/img/investimentos.svg" alt="" class="icon" /><a
+              href="#"
+              class="texto"
+              >Investimentos</a
+            >
+          </li>
+        </ul>
+
+        <ul class="navAjuda">
+          <li>
+            <img src="../assets/img/chat.svg" alt="" class="icon" /><a
+              href="http://"
+              class="texto"
+              >Ajuda</a
+            >
+          </li>
+          <li>
+            <img src="../assets/img/ajustes.svg" alt="" class="icon" /><a
+              href="http://"
+              class="texto"
+              >Ajustes</a
+            >
+          </li>
+          <li>
+            <img src="../assets/img/log_out.svg" alt="" class="icon" /><a
+              href="http://"
+              class="texto"
+              >Sair</a
+            >
+          </li>
+        </ul>
+      </nav>
+    </header>
+    <main>
+      <h1 class="saudacao">Olá Ana das Camélias</h1>
+      <section class="ultimasTransacoes">
+        <div class="selecoes">
+          <img class="banco" src="../assets/img/banco.png" alt="" />
+          <label for="" class="label">SELECIONE O BANCO</label>
+          <select class="input" type="text">
+            <option value="TODOS">TODOS</option>
+            <option value="ITAU">ITAU</option>
+            <option value="BRADESCO">BRADESCO</option>
+            <option value="SANTANDER">SANTANDER</option>
+            <option value="XP-INVESTIMENTO">XP-INVESTIMENTO</option>
+            <option value="BANCO DO BRASIL">BANCO DO BRASIL</option>
+            <option value="VALE-REIFEÇÃO">VALE-REIFEÇÃO</option>
+            <option value="VALE-TRANSPORTE">VALE-TRANSPORTE</option>
+          </select>
+        </div>
+        <div class="selecoes">
+          <label for="" class="label">PERÍODO</label>
+          <select class="input" type="text">
+            <option value="ANÁLISE DO ÚLTIMO MÊS">ANÁLISE DO ÚLTIMO MÊS</option>
+            <option value="ANÁLISE DO ÚLTIMO SEMESTRE">
+              ANÁLISE DO ÚLTIMO SEMESTRE
+            </option>
+            <option value="ANÁLISE DO ÚLTIMO SEMESTRE">
+              ANÁLISE DO ÚLTIMO ANO
+            </option>
+          </select>
+        </div>
+      </section>
+      <section class="gerenciador">
+        <div class="listaSupensa">
+          <ul>
+            <li>
+              <input class="radio" type="radio" /><img
+                class="img"
+                src="../assets/img/pagamento.png"
+              />Contas das casa
+            </li>
+            <li>
+              <input class="radio" type="radio" /><img
+                class="img"
+                src="../assets/img/livro.png"
+              />Investimento em educação
+            </li>
+            <li>
+              <input class="radio" type="radio" />
+              <img class="img" src="../assets/img/food.png" />Alimentação
+            </li>
+            <li>
+              <input class="radio" type="radio" /><img
+                class="img"
+                src="../assets/img/saude.png"
+              />Saúde
+            </li>
+            <li>
+              <input class="radio" type="radio" />
+              <img class="img" src="../assets/img/dindin.png" />Investimento
+            </li>
+            <li>
+              <input class="radio" type="radio" />
+              <img class="img" src="../assets/img/bus.png " />Mobilidade
+            </li>
+          </ul>
+        </div>
+        <div class="caixaGrafico">
+          <img
+            src="../assets/img/graficos/geral.jpg"
+            class="grafico"
+            alt=""
+          /><img />
+        </div>
+      </section>
+      <section class="caixaAnalise">
+        <button>GERAR ANÁLISE</button>
+      </section>
+    </main>
+    <script src="../js/view/gerenciamento.js"></script>
+  </body>
+</html>

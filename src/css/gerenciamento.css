@@ -1,0 +1,116 @@
+@import url("https://fonts.googleapis.com/css2?family=Overpass:wght@100;200;300&display=swap%22");
+
+.navIcons {
+  flex-direction: column;
+  align-items: center;
+  padding: 25px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.icon {
+  width: 35px;
+  height: 35px;
+}
+
+.icon:hover {
+  background-color: red;
+  cursor: pointer;
+  transition: 1.5;
+}
+
+ul > li {
+  list-style: none;
+  padding: 10px;
+  align-items: center;
+}
+
+.texto {
+  display: none;
+}
+
+main {
+  width: 100%;
+}
+.ultimasTransacoes {
+  display: flex;
+  /* justify-content: flex-end; */
+  width: 100%;
+  height: 30%;
+  margin-top: 30px;
+}
+
+.selecoes {
+  width: 100%;
+  height: 50%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.banco {
+  width: 30px;
+  height: 30px;
+}
+
+.label {
+  font-family: "Overpass", sans-serif;
+  font-size: 18px;
+  margin-left: 10px;
+}
+.gerenciador {
+  width: 100%;
+  display: flex;
+}
+
+.input {
+  background-color: #f2f2f2;
+  width: 18em;
+  height: 3em;
+  border-radius: 10px;
+  margin: 10px;
+}
+
+.listaSupensa {
+  margin-left: 40px;
+  width: 50%;
+}
+
+.listaSupensa > ul {
+  font-family: "Overpass", sans-serif;
+  font-size: 20px;
+}
+.radio {
+  margin-left: 10px;
+}
+.img {
+  margin-left: 20px;
+  margin-right: 20px;
+  width: 30px;
+  height: 30px;
+}
+.caixaGrafico {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.grafico {
+  width: 500px;
+  height: 300px;
+}
+.caixaAnalise {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 40px;
+}
+
+button {
+  background-color: var(--azul_bebe);
+  border-radius: 20px;
+  height: 40px;
+  width: 150px;
+  font-family: "Overpass", sans-serif;
+  font-size: 15px;
+  font-weight: bold;
+  cursor: pointer;
+}
