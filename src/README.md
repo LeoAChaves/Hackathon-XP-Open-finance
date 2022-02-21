@@ -110,17 +110,11 @@ As seguintes ferramentas foram usadas na construção do projeto:
 <a href="https://github.com/anaabalbi">🙈</a>
 <br>
 
-[![Linkedin Badge](https://img.shields.io/badge/-Bruno-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ana-am%C3%A9lia-oliveira-47590722a/)](https://www.linkedin.com/in/ana-am%C3%A9lia-oliveira-47590722a/) 
+[![Linkedin Badge](https://img.shields.io/badge/-Ana-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ana-am%C3%A9lia-oliveira-47590722a/)](https://www.linkedin.com/in/ana-am%C3%A9lia-oliveira-47590722a/) 
 <!-- [![Gmail Badge](https://img.shields.io/badge/-brunosantana.engenharia@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:brunosantana.engenharia@gmail.com)](mailto:brunosantana.engenharia@gmail.com) -->
 
 </td>
-</tr>
-</table>
 
-<br>
-
-<table>
-<tr>
 <td>
 <a href="https://github.com/brunosa91">
     <img style="border-radius: 50%;" src="./assets/img/integrantes/bruno-santana-de-sa.jpg" width="100px;" alt="">
@@ -134,13 +128,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 [![Gmail Badge](https://img.shields.io/badge/-brunosantana.engenharia@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:brunosantana.engenharia@gmail.com)](mailto:brunosantana.engenharia@gmail.com)
 
 </td>
-</tr>
-</table>
 
-<br>
-
-<table>
-<tr>
 <td>
 <a href="https://github.com/LeoAChaves">
     <img style="border-radius: 50%;" src="./assets/img/integrantes/leonardo-chaves.jpg" width="100px;" alt="">
@@ -150,17 +138,11 @@ As seguintes ferramentas foram usadas na construção do projeto:
 <a href="https://github.com/LeoAChaves">🙈</a>
 <br>
 
-[![Linkedin Badge](https://img.shields.io/badge/-Bruno-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leonardo-chaves-b6544b229/)](https://www.linkedin.com/in/leonardo-chaves-b6544b229/) 
+[![Linkedin Badge](https://img.shields.io/badge/-Leonardo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leonardo-chaves-b6544b229/)](https://www.linkedin.com/in/leonardo-chaves-b6544b229/) 
 <!-- [![Gmail Badge](https://img.shields.io/badge/-brunosantana.engenharia@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:brunosantana.engenharia@gmail.com)](mailto:brunosantana.engenharia@gmail.com) -->
 
 </td>
-</tr>
-</table>
 
-<br>
-
-<table>
-<tr>
 <td>
 <a href="https://github.com/alvesarah">
     <img style="border-radius: 50%;" src="./assets/img/integrantes/sarah-alves.jpg" width="100px;" alt="">
@@ -174,13 +156,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 [![Gmail Badge](https://img.shields.io/badge/-salves726@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:salves726@gmail.com)](mailto:salves726@gmail.com)
 
 </td>
-</tr>
-</table>
 
-<br>
-
-<table>
-<tr>
 <td>
 <a href="https://github.com/vanessacreis">
     <img style="border-radius: 50%;" src="./assets/img/integrantes/vanessa-reis.jpg" width="100px;" alt="">
@@ -190,7 +166,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 <a href="https://github.com/vanessacreis">🦄</a>
 <br>
 
-[![Linkedin Badge](https://img.shields.io/badge/-Sarah-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vanessacreisbh/)](https://www.linkedin.com/in/vanessacreisbh/) 
+[![Linkedin Badge](https://img.shields.io/badge/-Vanessa-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vanessacreisbh/)](https://www.linkedin.com/in/vanessacreisbh/) 
 <!-- [![Gmail Badge](https://img.shields.io/badge/-salves726@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:salves726@gmail.com)](mailto:salves726@gmail.com) -->
 
 </td>
