@@ -92,7 +92,6 @@ As seguintes ferramentas foram usadas na construção do projeto:
 -   Apresentação do Projeto: **[Canva](https://www.canva.com/)** → **[Slide (Save)](https://www.canva.com/design/DAE461zakfo/S62pLCtRshOxPY8aigkkVw/view?utm_content=DAE461zakfo&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton)**
 -   Editor:  **[Visual Studio Code](https://code.visualstudio.com/)**
 -   Markdown:  **[StackEdit](https://stackedit.io/)**,  **[Markdown Emoji](https://gist.github.com/rxaviers/7360908)**
--   Teste de API:  **[Insomnia](https://insomnia.rest/)**
 -   Ícones:  **[Feather Icons](https://feathericons.com/)**,  **[Font Awesome](https://fontawesome.com/)**
 -   Fontes:  **[Overpass](https://fonts.google.com/specimen/Overpass?query=overpass)**
 
