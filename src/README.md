@@ -124,7 +124,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 <a href="https://github.com/brunosa91">🙈</a>
 <br>
 
-[![Linkedin Badge](https://img.shields.io/badge/-Bruno-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/brunoasantanadesa/)](https://www.linkedin.com/in/brunoasantanadesa/) 
+[![Linkedin Badge](https://img.shields.io/badge/-Bruno-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/brunoasantanadesa/)](https://www.linkedin.com/in/brunoasantanadesa/)<br>
 [![Gmail Badge](https://img.shields.io/badge/-brunosantana.engenharia@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:brunosantana.engenharia@gmail.com)](mailto:brunosantana.engenharia@gmail.com)
 
 </td>
@@ -152,7 +152,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 <a href="https://github.com/alvesarah">🦄</a>
 <br>
 
-[![Linkedin Badge](https://img.shields.io/badge/-Sarah-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sarahalvesoliveira/)](https://www.linkedin.com/in/sarahalvesoliveira/) 
+[![Linkedin Badge](https://img.shields.io/badge/-Sarah-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sarahalvesoliveira/)](https://www.linkedin.com/in/sarahalvesoliveira/)<br>
 [![Gmail Badge](https://img.shields.io/badge/-salves726@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:salves726@gmail.com)](mailto:salves726@gmail.com)
 
 </td>
