@@ -103,7 +103,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 <tr>
 <td>
 <a href="https://github.com/anaabalbi">
-    <img style="border-radius: 50%;" src="./src/assets/integrantes/ana-amelia.png" width="100px;" alt="">
+    <img style="border-radius: 50%;" src="./src/assets/img/integrantes/ana-amelia.png" width="100px;" alt="">
     <br>
     <sub><b>Ana Amélia</b></sub>
 </a> 
@@ -123,7 +123,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 <tr>
 <td>
 <a href="https://github.com/brunosa91">
-    <img style="border-radius: 50%;" src="./src/assets/integrantes/bruno-santana-de-sa.jpg" width="100px;" alt="">
+    <img style="border-radius: 50%;" src="./src/assets/img/integrantes/bruno-santana-de-sa.jpg" width="100px;" alt="">
     <br>
     <sub><b>Bruno Santana de Sá</b></sub>
 </a> 
@@ -143,7 +143,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 <tr>
 <td>
 <a href="https://github.com/LeoAChaves">
-    <img style="border-radius: 50%;" src="./src/assets/integrantes/leonardo-chaves.jpg" width="100px;" alt="">
+    <img style="border-radius: 50%;" src="./src/assets/img/integrantes/leonardo-chaves.jpg" width="100px;" alt="">
     <br>
     <sub><b>Leonardo Chaves</b></sub>
 </a> 
@@ -163,7 +163,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 <tr>
 <td>
 <a href="https://github.com/alvesarah">
-    <img style="border-radius: 50%;" src="./src/assets/integrantes/sarah-alves.jpg" width="100px;" alt="">
+    <img style="border-radius: 50%;" src="./src/assets/img/integrantes/sarah-alves.jpg" width="100px;" alt="">
     <br>
     <sub><b>Sarah Alves</b></sub>
 </a>
@@ -183,7 +183,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 <tr>
 <td>
 <a href="https://github.com/vanessacreis">
-    <img style="border-radius: 50%;" src="./src/assets/integrantes/vanessa-reis.jpg" width="100px;" alt="">
+    <img style="border-radius: 50%;" src="./src/assets/img/integrantes/vanessa-reis.jpg" width="100px;" alt="">
     <br>
     <sub><b>Vanessa Reis</b></sub>
 </a>
