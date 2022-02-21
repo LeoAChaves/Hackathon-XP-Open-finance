@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="./src/assets/logo-animada.gif" width="350" title="hover text">
+    <img src="./assets/img/logo_save.png" width="350" title="logo">
 </p>
 <h1 align="center">Save</h1>
 
@@ -36,10 +36,9 @@ O layout da aplicação está disponível no Figma:
 <!-- PRINT dO SITE NO COMPUTADOR -->
 <p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
   <img alt="save" title="#save" src="./assets/img/pagina-introducao.png" width="400px">
-
-  <img alt="save" title="#save" src="./assets/img/pagina-login.png" width="400px">
-  <img alt="save" title="#save" src="./assets/img/pagina-inicial.png" width="400px">
-  <img alt="save" title="#save" src="./assets/img/investimento .png" width="400px">
+  <img alt="save" title="#save" src="./assets/img/pagina_login.png" width="400px">
+  <img alt="save" title="#save" src="./assets/img/pagina_inicial.png" width="400px">
+  <img alt="save" title="#save" src="./assets/img/investimento.png" width="400px">
   <img alt="save" title="#save" src="./assets/img/relatorios.png" width="400px">
   <img alt="save" title="#save" src="./assets/img/carteira.png" width="400px">
 </p>
