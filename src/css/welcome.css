@@ -8,53 +8,60 @@ main {
 }
 
 #carteiraDinamica {
-  display: flex;
   width: 800px;
   height: 250px;
-  background-color: #e9e7e7;
-  border-radius: 15px;
+  display: flex;
+  justify-content: center;
   align-items: center;
+  background-color: #ebe6e6;
+  border-radius: 25px;
+}
+
+#carteiraDinamica > div {
+  width: 400px;
+  height: 200px;
+}
+
+.carrosselCards {
+  display: flex;
+  width: 400px;
+  height: 200px;
+  align-items: center;
+  justify-content: center;
+  border-right: solid 2px#a8a8a8;
+  position: relative;
 }
 
 .boxCards0 {
-  width: 400px;
+  width: 250px;
   height: 200px;
   display: flex;
   align-items: center;
   justify-content: center;
-  border-right: solid 2px#a8a8a8;
 }
 
 .boxCards1 {
-  width: 400px;
+  width: 250px;
   height: 200px;
   display: none;
   align-items: center;
   justify-content: center;
-  border-right: solid 2px#a8a8a8;
 }
+
 .boxCards2 {
-  width: 400px;
+  width: 250px;
   height: 200px;
   display: none;
   align-items: center;
   justify-content: center;
-  border-right: solid 2px#a8a8a8;
 }
 
 .boxCards3 {
-  width: 400px;
+  width: 250px;
   height: 200px;
   display: none;
   align-items: center;
   justify-content: center;
-  border-right: solid 2px#a8a8a8;
-}
-.cards {
-  width: 250px;
-  height: 150px;
-  background-color: black;
-  border-radius: 15px;
 }
 
 .cards {
@@ -63,6 +70,14 @@ main {
   background-color: black;
   border-radius: 15px;
 }
+
+.cards0 {
+  width: 250px;
+  height: 150px;
+  background-color: black;
+  border-radius: 15px;
+}
+
 .cards1 {
   width: 250px;
   height: 150px;
@@ -88,7 +103,7 @@ main {
   width: 30px;
   height: 30px;
   border-radius: 50px;
-  top: 165px;
+  top: 90px;
   background-color: #a8a8a8;
   display: flex;
   align-items: center;
@@ -96,7 +111,7 @@ main {
 }
 
 .prev {
-  left: 25%;
+  left: 10%;
 }
 
 .prev > img {
@@ -106,7 +121,7 @@ main {
 }
 
 .next {
-  right: 49%;
+  right: 10%;
 }
 
 .next > img {

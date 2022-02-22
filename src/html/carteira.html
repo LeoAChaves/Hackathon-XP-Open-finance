@@ -1,0 +1,200 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="../css/reset.css" />
+    <link rel="stylesheet" href="../css/global.css" />
+    <link rel="stylesheet" href="../css/carteira.css" />
+    <title>Carteira</title>
+  </head>
+  <body>
+    <header>
+      <nav>        
+          <div class="home"><img src="../assets/img/home.svg" /></div>
+          <div class="carteira select">
+            <img src="../assets/img/carteira.svg" />
+          </div>
+         </div>
+       
+          <div class="cartoes">
+            <img src="../assets/img/cartoes.svg" />
+          </div>       
+          <div class="transacoes">
+            <img src="../assets/img/transacoes.svg" />
+          </div>
+       
+          <div class="investimento">
+            <img src="../assets/img/investimentos.svg" />
+          </div>
+        </div>
+      </nav>
+      <div class='expande'>
+        <div>
+          <p>Home</p>
+        </div>
+        <div>
+          <p>Carteira</p>
+        </div>
+        <div>
+          <p>Cartões</p>
+        </div>
+        <div>
+          <p>Transações</p>
+        </div>
+        <div>
+          <p>Investimentos</p>
+        </div>
+      </div>
+    </header>
+    <main>
+      <div class='login'>
+        <div class='toggle_icon'></div>
+        <p class='nome'>Ana Camélias</p>
+        <div class='foto'></div>
+      </div>
+      <div class ='toggle'>
+        <div><img src="../assets/img/chat.svg" /></div>
+        <div><img src="../assets/img/ajustes.svg" /></div>
+        <div><img src="../assets/img/log_out.svg" /></div>
+      </div>
+      <section id='box1'>
+        <div id='contas'>
+            <div class='logo-contas'><img id='conta0' src="../assets/img/banco-inter.svg" /></div>
+            <div class='logo-contas'><img id='conta1' src='../assets/img/nubank.svg'></div>
+            <div class='logo-contas'><img id='conta2' src='../assets/img/bradesco.svg'></div>
+           <div class='nova-conta'><img  src='../assets/img/adicionar.svg'></div>
+        </div>
+      </section>
+      <section id='balanco'>
+        <div class='extratos'>
+          <div class='data'><p>Dia </p> <p>29/02/2022</p></div>
+          <div class='infoExtatos'>           
+            <div><img class='imgExtrato1' src='../assets/img/game-controller.png'></div>
+            <p>Steam</p>
+            <p>R$ 59,90
+              <img src='../assets/img/caiu.svg'>
+            </p>
+            </div>
+            <div class='infoExtatos'>    
+            <div><img class='imgExtrato1' src='../assets/img/cash-flow.png'></div>
+            <p>Saque</p>
+            <p>R$ 1.050,00
+              <img src='../assets/img/caiu.svg'>
+            </p>
+          </div>
+          <div class='data'><p>Dia </p> <p>25/02/2022</p></div>
+          <div class='infoExtatos'>    
+            <div><img class='imgExtrato2' src='../assets/img/transferencia.png'></div>
+            <p>Pix</p>
+            <p>R$ 230,00
+              <img src='../assets/img/subiu.svg'></p>
+            
+          </div>
+          <div class='data'><p>Dia </p> <p>03/02/2022</p></div>
+          <div class='infoExtatos'>    
+            <div><img class='imgExtrato2' src='../assets/img/transferencia.png'></div>
+            <p>Pix</p>
+            <p>R$ 30,00    <img src='../assets/img/caiu.svg'></p>
+         
+          </div>
+          <div class='infoExtatos'>    
+            <div><img class='imgExtrato1' src='../assets/img/cash-flow.png'></div>
+            <p>Saque</p>
+            <p>R$ 800,00
+              <img src='../assets/img/caiu.svg'>
+            </p>
+          </div>
+          <div class='infoExtatos'>     
+            <div><img class='imgExtrato1' src='../assets/img/cash-flow.png'></div>
+            <p>Pix</p>
+            <p>R$ 430,00
+              <img src='../assets/img/subiu.svg'></p>
+          </div>
+          <div class='infoExtatos'>    
+            <div><img class='imgExtrato1' src='../assets/img/cash-flow.png'></div>
+            <p>Saque</p>
+            <p>R$ 500,00
+              <img src='../assets/img/caiu.svg'>
+            </p>
+          </div>
+          <div class='infoExtatos'>    
+            <div><img class='imgExtrato1' src='../assets/img/cash-flow.png'></div>
+            <p>Depósito</p>
+            <p>R$ 950,00
+              <img src='../assets/img/subiu.svg'>
+            </p>
+          </div>
+          
+        </div>
+        <div class='transacoes-conta'>
+          <div class='saldo'>
+            <p>Total em contas</p>
+            <p>R$ 5.999,99</p>
+            <div>
+              <p>29/02/2022</p>
+              <p>20:00:13</p>
+            </div>
+          </div>
+          <div class='servicos'>
+            <div>
+              <div></div>
+              <div></div>
+              <div></div>
+            </div>
+            
+            <div>
+              <div><img src='../assets/img/cell-phone.png'></div>
+              <div></div>
+              <div></div>
+            </div>
+            
+
+          </div>
+        </div>
+      </section>
+      
+   <div class='modal-container'>
+      <div class='modal'>
+        <div class='fechar'>
+          <div class='btnFechar'></div>
+        </div>
+        <div class='escolha'>
+          <p>Escolha o tipo de conta</p>
+          <select>
+            <option value='Banco do Brasil'>
+              Banco do Brasil
+            </option>
+            <option value='Bradesco'>
+              Banco do Brasil
+            </option>
+            <option value='Itau'>
+              Banco do Brasil
+            </option>
+            <option value='Banco do Brasil'>
+              Banco do Brasil
+            </option>
+            <option value='Banco do Brasil'>
+              Banco do Brasil
+            </option>
+            <option value='Banco do Brasil'>
+              Banco do Brasil
+            </option>
+            <option value='Banco do Brasil'>
+              Banco do Brasil
+            </option>
+          </select>
+        </div>
+        <div class='modal-info'></div>
+        
+      </div>
+    </div>
+
+    </main>
+ 
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script src="../js/nav.js"></script>
+    <script src='../js/modal.js'></script>
+  </body>
+</html>

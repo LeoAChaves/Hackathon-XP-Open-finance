@@ -22,11 +22,14 @@ nav {
   display: flex;
   width: 100px;
   height: 100vh;
-  background-color: #042326;
+  background-color: #4f528c;
   position: absolute;
+  flex-direction: column;
+  justify-content: space-evenly;
+  align-items: center;
 }
 
-nav:hover {
+/* nav:hover {
   width: 200px;
   transition: 1.2s;
-}
+} */
