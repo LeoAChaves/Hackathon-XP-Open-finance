@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="./assets/img/logo_save.png" width="350" title="logo">
+    <img src="./src/assets/img/logo_save.png" width="350" title="logo">
 </p>
 <h1 align="center">Save</h1>
 
@@ -38,11 +38,11 @@ O layout da aplicação está disponível no Figma:
   <img alt="save" title="#save" src="./assets/img/pagina-introducao.png" width="400px">
 </p>
 <p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
-  <img alt="save" title="#save" src="./assets/img/pagina_login.png" width="400px">
-  <img alt="save" title="#save" src="./assets/img/pagina_inicial.png" width="400px">
-  <img alt="save" title="#save" src="./assets/img/investimento.png" width="400px">
-  <img alt="save" title="#save" src="./assets/img/relatorios.png" width="400px">
-  <img alt="save" title="#save" src="./assets/img/carteira.png" width="400px">
+  <img alt="save" title="#save" src="./src/assets/img/pagina_login.png" width="400px">
+  <img alt="save" title="#save" src="./src/assets/img/pagina_inicial.png" width="400px">
+  <img alt="save" title="#save" src="./src/assets/img/investimento.png" width="400px">
+  <img alt="save" title="#save" src="./src/assets/img/relatorios.png" width="400px">
+  <img alt="save" title="#save" src="./src/assets/img/carteira.png" width="400px">
 </p>
 
 ---
@@ -102,7 +102,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 <tr>
 <td>
 <a href="https://github.com/anaabalbi">
-    <img style="border-radius: 50%;" src="./assets/img/integrantes/ana-amelia.png" width="100px;" alt="">
+    <img style="border-radius: 50%;" src="./src/assets/img/integrantes/ana-amelia.png" width="100px;" alt="">
     <br>
     <sub><b>Ana Amélia</b></sub>
 </a> 
@@ -116,7 +116,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 <td>
 <a href="https://github.com/brunosa91">
-    <img style="border-radius: 50%;" src="./assets/img/integrantes/bruno-santana-de-sa.jpg" width="100px;" alt="">
+    <img style="border-radius: 50%;" src="./src/assets/img/integrantes/bruno-santana-de-sa.jpg" width="100px;" alt="">
     <br>
     <sub><b>Bruno Santana de Sá</b></sub>
 </a> 
@@ -130,7 +130,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 <td>
 <a href="https://github.com/LeoAChaves">
-    <img style="border-radius: 50%;" src="./assets/img/integrantes/leonardo-chaves.jpg" width="100px;" alt="">
+    <img style="border-radius: 50%;" src="./src/assets/img/integrantes/leonardo-chaves.jpg" width="100px;" alt="">
     <br>
     <sub><b>Leonardo Chaves</b></sub>
 </a> 
@@ -144,7 +144,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 <td>
 <a href="https://github.com/alvesarah">
-    <img style="border-radius: 50%;" src="./assets/img/integrantes/sarah-alves.jpg" width="100px;" alt="">
+    <img style="border-radius: 50%;" src="./src/assets/img/integrantes/sarah-alves.jpg" width="100px;" alt="">
     <br>
     <sub><b>Sarah Alves</b></sub>
 </a>
@@ -158,7 +158,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 <td>
 <a href="https://github.com/vanessacreis">
-    <img style="border-radius: 50%;" src="./assets/img/integrantes/vanessa-reis.jpg" width="100px;" alt="">
+    <img style="border-radius: 50%;" src="./src/assets/img/integrantes/vanessa-reis.jpg" width="100px;" alt="">
     <br>
     <sub><b>Vanessa Reis</b></sub>
 </a>
